@@ -1,0 +1,7 @@
+- In php there is a server software, we connect script with that but in node.js we create server using javascript code
+- In server.js first imp http module, app.js file, and create server using app
+- Express app is in app.js handle all routes using 'use' middleware and export file 
+- Create a api/routes folder a route container folder
+- Create products and order routes with respective http requests and import into app.js
+- Show logs in console using morgan module by morgan('dev')
+- Error handling message
